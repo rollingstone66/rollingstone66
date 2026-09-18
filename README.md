@@ -20,5 +20,5 @@ More coming: agentic engineering patterns, AI adoption measurement, release-slic
 
 ## Connect
 
-- LinkedIn: [linkedin.com/in/timo-steinbrenner](https://www.linkedin.com/in/timo-steinbrenner)
+- LinkedIn: [Timo Steinbrenner](https://www.linkedin.com/in/timo-steinbrenner-69a29512/)
 - Feedback and PRs on any repo are welcome — especially reports from applying the models in your own organization.
