@@ -1,6 +1,7 @@
 # Timo Steinbrenner
 
-VP Software Engineering. I run a multi-team engineering division and publish the operating models, guidelines, and patterns that survive contact with reality — one page, one artifact, one repo at a time.
+VP Software Engineering. I run a multi-team engineering division and publish the operating models, guidelines, and patterns that survive that provide support tech delivery to
+business value.
 
 ## What I publish here
 
